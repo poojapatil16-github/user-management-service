@@ -11,7 +11,7 @@ The User Management Service is a microservice built using Nest.js and TypeORM. I
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/user-management-service.git
+git clone https://github.com/poojapatil16-github/user-management-service.git
 ```
 
 2. Install dependencies.
